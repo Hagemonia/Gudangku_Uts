@@ -51,3 +51,4 @@ Setiap modul punya Service Provider sendiri (`loadMigrationsFrom`, `loadRoutesFr
 | GET | /api/auth/me |
 | POST | /api/auth/logout |
 "# Gudangku_Uts" 
+"# Gudangku_Uts" 
